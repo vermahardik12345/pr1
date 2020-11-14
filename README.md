@@ -1,2 +1,2 @@
-# CAR-CHASE
-IT IS A PROJECT IN WHICH WE USE OUR OWN ALGORITHM
+# p5.play-boilerplate
+Boiler plate for p5.play
